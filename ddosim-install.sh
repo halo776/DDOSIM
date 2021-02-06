@@ -11,7 +11,7 @@ COL_CYAN=$ESC_SEQ"36;01m"
 COL_WHITE=$ESC_SEQ"1;97m"
 echo -e "$COL_RED Run This as Root"
 echo -e Brought to you by
-echo -e $COL_WHITE @oo0sn3rp0oo
+echo -e $COL_WHITE @103.145.226.120
 sleep 5
 ################################################################################
 echo -e $COLOR_WHITE [TINFOILSEC PRESENTS DDOSIM INSTALLER]
